@@ -1334,3 +1334,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.09-08.10.00:134][  1]LogAssetRegistry: Asset discovery search completed in 9.3040 seconds
 [2023.01.09-08.10.00:146][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
 [2023.01.09-08.10.03:082][288]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.09-08.12.03:761][459]LogDerivedDataCache: C:/Users/riffk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.160 and deleted 0 files with total size 0 MiB. Scanned 8017 files in 7864 folders with total size 490 MiB.
